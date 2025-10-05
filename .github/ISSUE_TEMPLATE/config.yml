@@ -1,0 +1,17 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🔒 Security Vulnerability
+    url: mailto:security@paybru.co.za
+    about: Please report security vulnerabilities privately via email to security@paybru.co.za
+  - name: 💬 General Support
+    url: mailto:support@paybru.co.za
+    about: For general support questions, please email support@paybru.co.za
+  - name: 🤝 Partnership & Integration Inquiries
+    url: mailto:partnerships@paybru.co.za
+    about: For partnership, integration, or collaboration inquiries, please contact partnerships@paybru.co.za
+  - name: 🌐 PayBru Website
+    url: https://paybru.co.za
+    about: Visit our website for more information about PayBru and our services
+  - name: 📧 General Contact
+    url: mailto:hello@paybru.co.za
+    about: For any other inquiries, please contact us at hello@paybru.co.za
