@@ -1,109 +1,175 @@
 <div align="center">
 
-# 👋 Welcome to PayBru
+<img src="../paybru-logo-dark.png" alt="PayBru Logo" width="120"/>
 
-### Modern Community Membership Platform
+# PayBru
+
+**Modern Community Membership Platform**
+
+[![.NET](https://img.shields.io/badge/.NET-9.0-512BD4?logo=dotnet)](https://dotnet.microsoft.com/)
+[![Blazor](https://img.shields.io/badge/Blazor-Web%20UI-512BD4?logo=blazor)](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
+[![License](https://img.shields.io/badge/License-Proprietary-red.svg)]()
+[![Website](https://img.shields.io/badge/Website-paybru.co.za-blue?logo=google-chrome)](https://paybru.co.za)
 
 *Empowering creators and communities with seamless membership management*
 
-[![Website](https://img.shields.io/badge/🌐_Visit-paybru.co.za-0066cc?style=for-the-badge)](https://paybru.co.za)
-[![.NET](https://img.shields.io/badge/.NET-9.0-512BD4?style=for-the-badge&logo=dotnet)](https://dotnet.microsoft.com/)
+[Features](#-features) • [Preview](#-platform-preview) • [How It Works](#-how-it-works) • [FAQ](#-faq) • [Contact](#-contact)
+
+<img src="../banner.png" alt="PayBru Banner" width="100%"/>
 
 </div>
 
 ---
 
-## 🎯 What We Do
+## 🎯 What is PayBru?
 
-PayBru is a membership and subscription platform that helps **creators**, **organizations**, and **communities** build sustainable revenue through tiered memberships, flexible subscriptions, and community engagement tools.
+PayBru is a membership and subscription platform that helps creators, organizations, and communities build sustainable revenue through tiered memberships, flexible subscriptions, and community engagement tools.
 
-## ✨ Platform Highlights
+---
+
+## ✨ Features
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💎 For Creators
-- **Flexible Membership Tiers** with custom benefits
-- **Revenue Management** with transparent payouts
-- **Real-time Analytics** for growth insights
-- **Discord Integration** for automated role management
-- **Financial Reports** with automated tax documents
+### For Creators
+- 💎 Flexible Membership Tiers
+- 💰 Revenue Management
+- 📊 Analytics Dashboard
+- 🎮 Discord Integration
+- 🧾 Financial Reports
 
 </td>
 <td width="50%" valign="top">
 
-### 🌟 For Members
-- **Secure Payment Processing** you can trust
-- **Flexible Billing** (monthly, quarterly, annual)
-- **Creator Support** via tips and contributions
-- **Stay Connected** with update notifications
-- **Mobile Accessible** from anywhere
+### For Members
+- 🔐 Secure Payments
+- 📅 Flexible Subscriptions
+- 🎁 Tips & Contributions
+- 🔔 Notifications
+- 📱 Mobile Friendly
 
 </td>
 </tr>
 </table>
 
-## 🛠️ Technology Stack
+<details>
+<summary><b>View all features →</b></summary>
 
-Built with modern, enterprise-grade technologies:
+### Platform Benefits
+- 🏘️ **Multi-Community** - Host and manage multiple communities
+- ⚡ **Automated Processing** - Set it and forget it with automatic renewals
+- 🎨 **Customizable** - Brand your community with custom themes and logos
+- 🔒 **Secure & Reliable** - Built with enterprise-grade security
 
-- **.NET 9.0** - Latest Microsoft framework for performance and reliability
-- **Blazor** - Modern web UI framework for responsive interfaces
-- **SQL Server** - Enterprise database for data integrity
-- **Secure Payment Processing** - Industry-standard gateway integration
+📄 [Full Feature List](../docs/FEATURES.md)
 
-## 🚀 Get Started
+</details>
 
-### 🎨 Launch Your Community
-Ready to start your membership community? Get in touch:
-- 📧 **General Inquiries**: hello@paybru.co.za
-- 🤝 **Partnerships**: partnerships@paybru.co.za
-- 🌐 **Website**: [paybru.co.za](https://paybru.co.za)
+---
 
-### 👨‍💻 For Developers
-Interested in integrations or partnerships? We'd love to collaborate! Reach out to our team.
+## 📸 Platform Preview
 
-## 🔒 Security & Trust
+<details>
+<summary><b>Member Dashboard</b></summary>
+<br>
+<img src="../dashboard.png" alt="Member Dashboard" width="100%"/>
 
-We take security seriously with:
-- 🔐 Enterprise-grade encryption
-- ✅ Secure payment processing
-- 🛡️ Regular security audits
-- 🔒 GDPR compliant
-- 💳 PCI DSS standards adherence
+*Track your community investments, memberships, and quick actions*
+</details>
 
-> 🔐 **Found a security issue?** Please report responsibly to security@paybru.co.za
+<details>
+<summary><b>Creator Dashboard</b></summary>
+<br>
+<img src="../community-dashboard.png" alt="Creator Dashboard" width="100%"/>
 
-## 📊 How It Works
+*Revenue analytics, transaction monitoring, and community management*
+</details>
+
+<details>
+<summary><b>Profile & Settings</b></summary>
+<br>
+<img src="../profile.png" alt="Profile Settings" width="100%"/>
+
+*Manage your account with badges and achievements*
+</details>
+
+---
+
+## 📖 How It Works
 
 ```mermaid
-graph LR
-    A[Create Community] --> B[Members Subscribe]
-    B --> C[Automatic Management]
-    C --> D[Track & Grow]
-    D --> E[Get Paid]
-    E --> A
+flowchart LR
+    A[🔍 Discover] --> B[📋 Choose Tier]
+    B --> C[💳 Subscribe]
+    C --> D[🎉 Enjoy Benefits]
+    D --> E[🔄 Auto-Renew]
+
+    style A fill:#4f46e5,color:#fff
+    style B fill:#4f46e5,color:#fff
+    style C fill:#22c55e,color:#fff
+    style D fill:#f59e0b,color:#fff
+    style E fill:#4f46e5,color:#fff
 ```
 
-1. **Create Your Community** - Set up your branded space with custom tiers
-2. **Members Subscribe** - Supporters choose their membership level
-3. **Automatic Management** - We handle payments, renewals, and notifications
-4. **Track & Grow** - Use analytics to understand your community
-5. **Get Paid** - Receive regular payouts with full transparency
+<details>
+<summary><b>View detailed flows (Payment, Onboarding) →</b></summary>
 
-## 🤝 Let's Connect
+📄 [Full Documentation](../docs/HOW-IT-WORKS.md)
 
-<div align="center">
+</details>
 
-| Contact | Email |
-|---------|-------|
-| 💬 General | hello@paybru.co.za |
-| 🆘 Support | support@paybru.co.za |
-| 🤝 Partnerships | partnerships@paybru.co.za |
-| 🔒 Security | security@paybru.co.za |
+---
 
-</div>
+## ❓ FAQ
+
+<details>
+<summary><b>How do I get started as a creator?</b></summary>
+
+Contact us at hello@paybru.co.za or visit [paybru.co.za](https://paybru.co.za) to set up your community.
+</details>
+
+<details>
+<summary><b>What payment methods are supported?</b></summary>
+
+We support secure payment processing through industry-standard payment gateways with South African payment support.
+</details>
+
+<details>
+<summary><b>Is my data secure?</b></summary>
+
+Yes! We use enterprise-grade encryption, regular security audits, and comply with GDPR and PCI DSS standards.
+</details>
+
+📄 [More FAQs](../docs/FAQ.md)
+
+---
+
+## 🔒 Security & Compliance
+
+<table>
+<tr>
+<td>🔐 Enterprise Encryption</td>
+<td>✅ Secure Payments</td>
+<td>🛡️ Regular Audits</td>
+<td>🔒 GDPR Compliant</td>
+<td>💳 PCI DSS</td>
+</tr>
+</table>
+
+---
+
+## 📞 Contact
+
+<table>
+<tr>
+<td>📧 <b>General</b><br>hello@paybru.co.za</td>
+<td>🆘 <b>Support</b><br>support@paybru.co.za</td>
+<td>🤝 <b>Partnerships</b><br>partnerships@paybru.co.za</td>
+<td>🌐 <b>Website</b><br><a href="https://paybru.co.za">paybru.co.za</a></td>
+</tr>
+</table>
 
 ---
 
@@ -113,7 +179,4 @@ graph LR
 
 *Empowering sustainable creator economies*
 
-[🌐 paybru.co.za](https://paybru.co.za)
-
 </div>
-
