@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../paybru-logo-dark.png" alt="PayBru Logo" width="120"/>
+<img src="paybru-logo-dark.png" alt="PayBru Logo" width="120"/>
 
 # PayBru
 
@@ -15,7 +15,7 @@
 
 [Features](#-features) • [Preview](#-platform-preview) • [How It Works](#-how-it-works) • [FAQ](#-faq) • [Contact](#-contact)
 
-<img src="../banner.png" alt="PayBru Banner" width="100%"/>
+<img src="banner.png" alt="PayBru Banner" width="100%"/>
 
 </div>
 
@@ -63,7 +63,7 @@ PayBru is a membership and subscription platform that helps creators, organizati
 - 🎨 **Customizable** - Brand your community with custom themes and logos
 - 🔒 **Secure & Reliable** - Built with enterprise-grade security
 
-📄 [Full Feature List](../docs/FEATURES.md)
+📄 [Full Feature List](docs/FEATURES.md)
 
 </details>
 
@@ -74,7 +74,7 @@ PayBru is a membership and subscription platform that helps creators, organizati
 <details>
 <summary><b>Member Dashboard</b></summary>
 <br>
-<img src="../dashboard.png" alt="Member Dashboard" width="100%"/>
+<img src="dashboard.png" alt="Member Dashboard" width="100%"/>
 
 *Track your community investments, memberships, and quick actions*
 </details>
@@ -82,7 +82,7 @@ PayBru is a membership and subscription platform that helps creators, organizati
 <details>
 <summary><b>Creator Dashboard</b></summary>
 <br>
-<img src="../community-dashboard.png" alt="Creator Dashboard" width="100%"/>
+<img src="community-dashboard.png" alt="Creator Dashboard" width="100%"/>
 
 *Revenue analytics, transaction monitoring, and community management*
 </details>
@@ -90,7 +90,7 @@ PayBru is a membership and subscription platform that helps creators, organizati
 <details>
 <summary><b>Profile & Settings</b></summary>
 <br>
-<img src="../profile.png" alt="Profile Settings" width="100%"/>
+<img src="profile.png" alt="Profile Settings" width="100%"/>
 
 *Manage your account with badges and achievements*
 </details>
@@ -116,7 +116,7 @@ flowchart LR
 <details>
 <summary><b>View detailed flows (Payment, Onboarding) →</b></summary>
 
-📄 [Full Documentation](../docs/HOW-IT-WORKS.md)
+📄 [Full Documentation](docs/HOW-IT-WORKS.md)
 
 </details>
 
@@ -142,7 +142,7 @@ We support secure payment processing through industry-standard payment gateways 
 Yes! We use enterprise-grade encryption, regular security audits, and comply with GDPR and PCI DSS standards.
 </details>
 
-📄 [More FAQs](../docs/FAQ.md)
+📄 [More FAQs](docs/FAQ.md)
 
 ---
 

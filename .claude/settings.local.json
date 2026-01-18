@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(copy paybru-logo-dark.png profile )",
+      "Bash(copy banner.png profile )",
+      "Bash(copy dashboard.png profile )",
+      "Bash(copy community-dashboard.png profile )",
+      "Bash(copy profile.png profile)"
+    ]
+  }
+}
